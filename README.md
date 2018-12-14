@@ -1,6 +1,6 @@
 ## Aplicación de consola del clima
 
-Recuerden ejecutar ````npm install``` para las librerías.
+Recuerden ejecutar ```npm install``` para las librerías.
 
 ## Ejemplo:
 
